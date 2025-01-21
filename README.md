@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: 'Object is possibly 'null'.  The `bug.ts` file shows the erroneous code, while `bugSolution.ts` provides a corrected version using null checks and optional chaining.
